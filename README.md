@@ -10,13 +10,13 @@ TrueAge is a simple, intuitive, and fully responsive age calculator that allows 
   The interface adjusts seamlessly to various screen sizes, providing an optimal experience on laptops, tablets, and mobile devices. Check out the screenshots below to see how TrueAge looks across different screen sizes:
 
   - 🖥️ **Laptop View**:  
-    ![Laptop View](./screenshots/laptop.png)
+    ![Laptop View](./laptopview.png)
 
   - 📱 **Tablet View**:  
-    ![Tablet View](./screenshots/tablet.png)
+    ![Tablet View](./tabletview.png)
 
   - 📲 **Mobile View**:  
-    ![Mobile View](./screenshots/mobile.png)
+    ![Mobile View](./mobileview.png)
 
 - **Eye-Pleasing UI**:  
   TrueAge features a clean, modern design with an emphasis on usability and visual appeal. The minimalistic design ensures the focus stays on functionality while offering a pleasant user experience.
