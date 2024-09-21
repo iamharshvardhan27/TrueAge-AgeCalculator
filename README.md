@@ -2,7 +2,7 @@
 TrueAge is a simple, intuitive, and fully responsive age calculator that allows users to calculate their exact age based on their date of birth. Built using fundamental web technologies, this project emphasizes clean design, user-friendly experience, and compatibility across devices.
 
 # ⚙️ Demo
-- 
+- https://iamharshvardhan27.github.io/TrueAge-AgeCalculator/
 
 ## ✨ Key Features
 
